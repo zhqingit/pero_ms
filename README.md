@@ -20,8 +20,8 @@ The workflow includes the following steps:
 
     1.5 [RNA-seq Pipeline](./pipelines/rnaseq): Building an RNA-seq pipeline from scratch in a short time is challenging, so I used the [nf-core RNA-seq pipeline](https://nf-co.re/rnaseq/3.18.0/) with its default parameters on the dataset. This pipeline integrates all the essential functions, including quality control, trimming, and alignment.
 
-2. **Differential Expression Analysis**: Identifying differentially expressed genes (DEGs). Please check out this Jupyter [notebook](./ana_1.ipynb) for complete details.
-3. **PPI Network Integration**: Mapping DEGs onto a PPI network to identify key interactions. Please check out this Jupyter [notebook](./ana_2.ipynb) for complete details
+2. **Differential Expression Analysis**: Identifying differentially expressed genes (DEGs). Please check out this Jupyter [notebook](./pipelines/ana_1.ipynb) for complete details.
+3. **PPI Network Integration**: Mapping DEGs onto a PPI network to identify key interactions. Please check out this Jupyter [notebook](./pipelines/ana_2.ipynb) for complete details
 
 ## Requirements
 
@@ -33,11 +33,11 @@ The workflow includes the following steps:
 ## Clone
 
 ```bash
-git clone https://github.com/zhqingit/powerhouse.git
+git clone https://github.com/zhqingit/pero_ms.git
 ```
 
 ## Results
-Kindly refer to the [analysis](./ana_2.ipynb) for further details.
+Kindly refer to the [analysis](./pipelines/ana_2.ipynb) for further details.
 
 ## Contact
 
