@@ -1,0 +1,8 @@
+pipelines/.nextflow*
+data/GSE141797/fastq
+data/GSE141797/sra
+data/*.gz
+data/9606.protein.links.detailed.v12.0.min400.onlyAB.tsv
+data/hg38.2bit
+output/*
+

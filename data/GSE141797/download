@@ -1,0 +1,1 @@
+prefetch --option-file ./AccList.txt -O /home/qzhang/data/projects/bioinformatics/powerhouse/data/RNA-seq/sra

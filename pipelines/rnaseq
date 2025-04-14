@@ -1,0 +1,1 @@
+nextflow run nf-core/rnaseq -r 3.18.0 -name powerhouse -profile docker -c ./base.config -params-file nf-params.json

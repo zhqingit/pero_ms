@@ -1,0 +1,8 @@
+{
+    "input": "\/home\/qzhang\/data\/projects\/bioinformatics\/powerhouse\/data\/GSE141797\/samplesheet.csv",
+    "outdir": "\/home\/qzhang\/data\/projects\/bioinformatics\/powerhouse\/output\/GSE141797\/",
+    "fasta": "\/home\/qzhang\/data\/projects\/bioinformatics\/powerhouse\/data\/hg38.fa.gz",
+    "gtf": "\/home\/qzhang\/data\/projects\/bioinformatics\/powerhouse\/data\/hg38.refGene.gtf.gz",
+    "trimmer": "fastp",
+    "save_reference": true
+}
